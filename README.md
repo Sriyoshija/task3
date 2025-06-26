@@ -8,15 +8,15 @@ We built a practical tool that estimates housing prices based on features like:
 ->Location perks (main roads, preferred areas).                                                                                                                     
 ->Amenities (AC, basement, hot water).                                                                                                                               
 ->Furnishing quality.                                                                                                                                                
-**-> How it works**
-Data preprocessing: Cleaned and organized messy real estate data
-Turned "yes/no" answers into 1/0 flags
-Handled furnishing types (semi/fully furnished)
-Math magic: Used linear regression to find price patterns
-Validation: Tested accuracy with 20% unseen properties
-Insights: Discovered what really moves property values
+**-> How it works**                                                                                                                                                  
+Data preprocessing: Cleaned and organized messy real estate data                                                                                                     
+Turned "yes/no" answers into 1/0 flags                                                                                                                               
+Handled furnishing types (semi/fully furnished)                                                                                                                      
+Math magic: Used linear regression to find price patterns                                                                                                            
+Validation: Tested accuracy with 20% unseen properties                                                                                                               
+Insights: Discovered what really moves property values                                                                                                               
 
-**-> What we found**
+**-> What we found**                                                                                                                                                 
 Size matters most: Square footage dominates pricing
 AC adds value: Air conditioning boosts price nearly as much as extra space
 Location premium: "Preferred area" homes cost ~28% more
