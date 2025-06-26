@@ -3,7 +3,7 @@
 **Housing Price Prediction**                                                                                                                                         
 *Predicting property values using real-world data*
 
-We built a practical tool that estimates housing prices based on features like:
+We built a practical tool that estimates housing prices based on features like:                                                                                     
 ->Property size and room counts.
 ->Location perks (main roads, preferred areas).
 ->Amenities (AC, basement, hot water).
