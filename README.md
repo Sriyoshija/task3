@@ -36,6 +36,7 @@ results.png           # Visual proof
 requirements.txt      # Needed package                                                                                                                               
 
 Block diagram illustrating the linear regression:                                                                                                                    
+*I have utilized these block diagrams to facilitate efficient code implementation*
 ![image](https://github.com/user-attachments/assets/5bbe0cce-6222-4cb7-a6f8-9177259843f2)                                                                            
           
 ![image](https://github.com/user-attachments/assets/b4b403bd-e2eb-4fb3-824c-241814dd394b)
